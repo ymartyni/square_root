@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 while True:
-
     try:
         a = float(input("a = "))
         if a == 0:
